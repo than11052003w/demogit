@@ -15,7 +15,8 @@ public class JavaApplication37 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("xin chao ");
+        System.out.println("xin");
+        System.out.println("xin chao 2 ");
     }
     
 }
